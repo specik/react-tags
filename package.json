@@ -18,13 +18,14 @@
   ],
   "contributors": [
     "Prakhar Srivastav",
-    "Matt Hinchliffe"
+    "Matt Hinchliffe",
+    "Kristofer Hoyos"
   ],
   "license": "MIT",
   "repository": "https://github.com/i-like-robots/react-tags",
   "peerDependencies": {
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
   },
   "devDependencies": {
     "babel": "^5.3.3",
